@@ -5,7 +5,7 @@
 }
 body {
     /* background-color: #f8f9fa; */
-    background-image: url('../img/fondo.png');
+    background-image: url('assets/img/fondo.png');
     background-repeat: no-repeat;
     background-size: cover;
 }
